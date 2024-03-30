@@ -1,4 +1,4 @@
-package pro.sky.maternity.configuration;
+package org.example.configuration;
 
 import com.pengrad.telegrambot.TelegramBot;
 import com.pengrad.telegrambot.model.DeleteMyCommands;
